@@ -1,4 +1,4 @@
-#Steps to use app:
+# Steps to use app:
 
 ## 1) Clone app using link:
 git clone https://remarkable-gnome-b0c0bf.netlify.app/
