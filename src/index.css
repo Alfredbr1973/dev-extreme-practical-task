@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h3 {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+/* add extreme grid table css */
+table {
+  font-family: 'Inter', sans-serif;
+}
